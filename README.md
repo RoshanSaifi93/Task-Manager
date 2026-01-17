@@ -1,11 +1,10 @@
 # Task Manager App 📝
 
-A simple and user-friendly Task Manager application built using React and Redux.  
-This app helps users manage their daily tasks efficiently by allowing them to add, edit, delete, and track tasks.
+A simple and user-friendly Task Manager application built using React.  
+This app helps users manage their daily tasks efficiently by allowing them to add, delete, and search tasks.
 
 ## 🚀 Features
 - Add new tasks
-- Edit existing tasks
 - Delete tasks
 - Mark tasks as completed
 - Filter tasks (All / Completed / Pending)
@@ -13,7 +12,6 @@ This app helps users manage their daily tasks efficiently by allowing them to ad
 
 ## 🛠️ Tech Stack
 - React.js
-- Redux Toolkit
 - JavaScript
 - HTML
 - CSS
