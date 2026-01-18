@@ -9,7 +9,6 @@ This app helps users manage their daily tasks efficiently by allowing them to ad
 - Delete tasks
 - Mark tasks as completed
 - Search tasks
-- State management using Redux Toolkit
 
 ## 🛠️ Tech Stack
 
